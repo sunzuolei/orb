@@ -6,10 +6,10 @@ http://v.youku.com/v_show/id_XMjYxMjYwNzAyNA==.html?from=s1.8-1-1.2&spm=a2h0k.81
 #How to Run
 
 ##Required Dependencies
-####eigen3<br>
+####Eigen3<br>
 Install with <br>
 ```
-sudo apt-get install libopencv-dev
+sudo apt-get install libeigen3-dev
 ```
 ####OpenCV<br>
 Install with <br>
